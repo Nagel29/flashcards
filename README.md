@@ -10,7 +10,7 @@ This app allows the user to use virtual flashcards in order to study topics rela
 2. Clone down your new, forked repo
 3. In the terminal cd into the repository
 4. Open it in your text editor to view the code
-5. Start the test by running node index.js in your terminal
+5. Start the test by running `node index.js` in your terminal
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
