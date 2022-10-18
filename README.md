@@ -9,8 +9,8 @@ This app allows the user to use virtual flashcards in order to study topics rela
 1. Fork the `flashcards` repository
 2. Clone down your new, forked repo
 3. In the terminal cd into the repository
-4. Open it in your text editor to view the code
-5. Start the test by running `node index.js` in your terminal
+4. Run `npm install`
+5. Start the test by running `node index.js`
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
@@ -19,6 +19,14 @@ This app allows the user to use virtual flashcards in order to study topics rela
 ### Context:
 [//]: <> (Give some context for the project here. How long did you have to work on it? How far into the Turing program are you?)
 I am in week 7 of the Turing School of Software and Design course. This project took me a total of roughly 7-8 hours to complete.
+
+### Technologies Used:
+[//]: <> (Which technologies were used to complete the project?)
+* JavaScript
+* CSS
+* HTML
+* Mocha
+* Chai
 
 ### Contributors:
 [//]: <> (Who worked on this application? Link to their GitHubs.)
